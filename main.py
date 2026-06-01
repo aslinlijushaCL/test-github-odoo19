@@ -1,5 +1,5 @@
 #Simple Python Program to Greet the User
-#
+# Hi
 def greet_user():
     name = input("What's your name? ")
     print(f"Hello, (name)! Welcome to the program.")
