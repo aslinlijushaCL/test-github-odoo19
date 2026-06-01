@@ -6,3 +6,5 @@ def greet_user():
 
 # Call the function
 greet_user()
+print("Branching and merging");
+print("Testing, Branching and merging");
